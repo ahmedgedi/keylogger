@@ -1,2 +1,4 @@
-# keylogger
-simple keylogger [ for educational purposes only ] 
+# Keylogger 
+
+Simple python keylogger
+
